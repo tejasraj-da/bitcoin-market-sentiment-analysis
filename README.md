@@ -9,6 +9,17 @@ This project analyzes the relationship between Bitcoin market sentiment and trad
 ## Datasets
 - Historical Trader Data
 - Bitcoin Fear & Greed Index
+- ## Dataset
+
+The historical trading dataset is not included in this repository because of GitHub file size limitations.
+
+Please download the datasets from the links provided in the assignment:
+
+- Historical Trader Data: ([Google Drive link from the assignment](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+))
+- Bitcoin Fear & Greed Index: (Google Drive link from the assignment)
+
+After downloading, place both CSV files in the project folder before running the notebook.
 
 ## Technologies Used
 - Python
